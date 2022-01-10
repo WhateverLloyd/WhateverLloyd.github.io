@@ -8,6 +8,16 @@
 
 ### WORK EXPERIENCE
 
+**Biologist**, Apr. 2021 - Present <br/>
+San Juan Island National Historic Park (Friday Harbor, WA)<br/>
+- Participated in the captive rearing program of the endangered island marble butterfly on San Juan Island
+- Monitored species of interest throughout the park including sand verbena moths, Propertius duskywing butterflies, sharp-tailed snakes, and bats
+- Built and maintained fencing, controlled exotic invasive plants, and revegetated disturbed sites
+- Maintained a native plant nursery and interpretative native plant garden
+- Developed ArcGIS Online maps and Survey123 apps for field data collection
+- Wrote and reviewed proposals for natural resource management projects
+- Coordinated and led field crews of volunteers and AmeriCorps conservation groups in natural resource management projects
+
 **Research Technician**, May 2018 - Dec. 2020 <br/>
 South Carolina Department of Natural Resources, Marine Resources Research Institute (Charleston, SC)<br/>
 - Primary researcher for a Sea Grant-funded project exploring relationships among land cover, climate change, and coastal ecosystems
