@@ -15,7 +15,8 @@ South Carolina’s growing population has resulted in widespread changes in land
 
 ### Links
 
-<a href="/files/Hill_ThesisDocument_Final_12-02-20.pdf" target="_blank">PDF of Thesis Document</a><br/>
+<a href="../files/Hill_ThesisDocument_Final_12-02-20.pdf" target="_blank">PDF of Thesis Document</a><br/>
+<a href="./files/Hill_ThesisDocument_Final_12-02-20.pdf" target="_blank">PDF of Thesis Document</a><br/>
 
 <a href="/files/Hill_ThesisPowerpoint_08-05-20.pdf" target="_blank">PDF of Thesis Defense PowerPoint</a><br/>
 
