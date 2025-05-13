@@ -8,7 +8,18 @@
 
 ### WORK EXPERIENCE
 
-**Biologist**, Apr. 2021 - Present <br/>
+**Public Health Data Analyst**, May 2022 - May 2025 <br/>
+Environmental Protection Agency (Chapel Hill, NC)<br/>
+- Researched the public health impact of pressing environmental issues including wildfire, emerging contaminants (*e.g.* PFAS), and climate change
+- Applied advanced statistical methods (*e.g.* machine learning, linear modeling, time series analysis) to study relationships among health outcomes and the environmental exposures
+- Developed and managed large relational databases to facilitate environmental and epidemiological studies
+- Used R Statistical Software to create, process, and visualize large datasets
+- Used ArcGIS Pro software to analyze, interpret, and visualize geospatial data
+- Supported and collaborated with an interdisciplinary team of agency staff, university faculty, student researchers, and medical professionals
+- Performed exploratory analyses, developed exposure metrics, and handled large databases with a systematic approach and attention to detail
+
+
+**Biologist**, Apr. 2021 - Nov. 2021 <br/>
 San Juan Island National Historic Park (Friday Harbor, WA)<br/>
 - Participated in the captive rearing program of the endangered island marble butterfly on San Juan Island
 - Monitored species of interest throughout the park including sand verbena moths, Propertius duskywing butterflies, sharp-tailed snakes, and bats
