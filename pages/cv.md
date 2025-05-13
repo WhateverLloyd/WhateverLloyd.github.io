@@ -136,7 +136,25 @@ University of North Carolina at Asheville (Asheville, NC)<br/>
 Emma Elementary School (Asheville, NC)<br/>
 - Tutored 2<sup>nd</sup> grade ESL students in reading, writing, and math
 
-### PRESENTATIONS & PUBLICATIONS
+### PUBLICATIONS
+
+O’Lenick, C. R., Cleland, S. E., Neas, L. M., Turner, M. W., Mcinroe, E. M., __Hill, K. L.__, ... & Rappold, A. G. (2025). Impact of heat on respiratory hospitalizations among older adults in 120 large US urban areas. _Annals of the American Thoracic Society_, 22(3), 367-377.
+
+Keeler, C., Cleland, S. E., __Hill, K. L.__, Mazzella, A. J., Cascio, W. E., Rappold, A. G., & Rosman, L. A. (2025). Effects of extreme humidity and heat on ventricular arrhythmia risk in patients with cardiac devices. _JACC: Advances_, 4(1), 101463.
+
+Feng, B. R., Yanchenko, E., __Hill, K. L.__, Rosman, L. A., Reich, B. J., & Rappold, A. G. (2024). Mediation analysis of community context effects on heart failure using the survival R2D2 prior. _arXiv preprint_, arXiv:2411.04310.
+
+Williams, L. A., Beane, J., Hardman, R., __Hill, K. L.__, & Stroebel, M., (2012). _Ambystoma opacum_ (marbled salamander) geographic distribution note. _Herpetological Review_, 43(4), 611.<br/>
+
+### PRESENTATIONS
+
+__Hill, K. L.__, Tsai, W., Rappold, A., Hubal, E., Keeler, C., (2025, April). _Exploring spatial and demographic variation in exposure to per- and polyfluoroalkyl substances in public water systems in the United States_ \[poster presentation\]. EPA’s Office of Research and Development (ORD) Spring Poster Session, Research Triangle Park, NC.
+
+__Hill, K. L.__, Short, R., Neas, L., Rappold, A., Steinhardt, W., Sheng, A., Hubal, E., Reich, B., Yang, S., (2024, January). _PFAS contaminated groundwater and chronic condition incidence among Medicare beneficiaries in California_ \[oral presentation\]. Air and Waste Management Association's Science of PFAS Conference, Raleigh, NC.
+
+__Hill, K. L.__, Short, R., Neas, L., Rappold, A., Steinhardt, W., Sheng, A., Hubal, E., Reich, B., Yang, S., (2023, December). _PFAS contaminated groundwater and chronic condition incidence among Medicare beneficiaries in California_ \[poster presentation\]. American Geophysical Union (AGU) 2023 Fall Meeting, San Francisco, CA.
+
+__Hill, K. L.__, Cleland, S., Rosman, L., Mazzella, A., Rappold, A., Neas, L., & Ward-Caviness, C., (2023, August). _The impact of temperature and relative humidity on ventricular arrhythmias in patients with implanted cardiac devices: a case time series analysis in North Carolina, 2010-2021_ \[oral presentation\]. International Society of Exposure Science (ISES) 2023 Conference, Chicago, IL.
 
 __Hill, K. L.__, Tweel, A., Johnson, S., & Sanger, D., (2019, November). _Linking land use, climate, and coastal ecosystems: a watershed perspective for a changing South Carolina coast_ \[oral presentation\]. Twenty-fifth biennial Coastal and Estuarine Research Federation (CERF) conference, Mobile, AL.   
 
@@ -146,6 +164,6 @@ Brown, C. E., __Hill, K.__, & Fanning, R., Callahan, T., & Robinson, J., (2018, 
 
 __Hill, K. L.__, Phillips, M., Rence, E., Callahan, T., & Robinson, J., (2018, April). _Long Branch restoration: improving ecosystem services of a tidal creek in a changing city_ \[poster presentation\]. College of Charleston Science and Mathematics Poster Session, Charleston, SC.
 
-Williams, L. A., Beane, J., Hardman, R., __Hill, K.__, & Stroebel, M., (2012). _Ambystoma opacum_ (marbled salamander) geographic distribution note. _Herpetological Review_, 43(4), 611.<br/>
+
 
 [&#8592;](../pages/contact)     [&#8962;](../index)     [&#8594;](../pages/thesis)
